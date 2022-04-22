@@ -1,1 +1,1 @@
-conflic merge
+conflic khi pull
