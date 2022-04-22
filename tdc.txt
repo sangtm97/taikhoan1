@@ -1,2 +1,1 @@
-pull khi conflic
-xu ly conflic
+merge khi conflict
